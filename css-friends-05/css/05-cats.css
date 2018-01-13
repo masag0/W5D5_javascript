@@ -1,0 +1,35 @@
+/* PHASE 5: Cats */
+
+.content-header {
+  position: relative;
+  display: block;
+  height: 200px;
+  width: 900px;
+  background-image: url(../images/cats.jpg);
+  background-size: cover;
+}
+
+.Sennacy-Title {
+  color: white;
+  font-size: 36px;
+  font-weight: 300;
+  position: absolute;
+  right: 350px;
+  top: 140px;
+  text-shadow: 0 0 10px black;
+}
+
+.friend-button {
+  padding: 10px 20px 10px 20px;
+  /* padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px; */
+  background: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+  position: absolute;
+  right: 30px;
+  top: 140px;
+}
